@@ -9,9 +9,9 @@
 #include <iostream>
 #include <Windows.h>
 #include <string>
-#include "include/ce.h"
-#include "include/gmb.h"
-#include "include/uc.h"
+#include "include/ce.hpp"
+#include "include/gmb.hpp"
+#include "include/uc.hpp"
 
 const int COORD_OFFSET_X = 8;
 const int COORD_OFFSET_Y = 31;
